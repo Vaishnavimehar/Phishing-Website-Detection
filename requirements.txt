@@ -1,0 +1,11 @@
+pandas
+numpy 
+seaborn
+scikit-learn
+xgboost
+whois
+requests
+bs4
+flask
+ipaddress
+mysql.connector
